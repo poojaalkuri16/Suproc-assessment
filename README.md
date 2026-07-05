@@ -80,7 +80,7 @@ Suproc/
 The application follows a modular agent architecture where each stage performs a single responsibility before passing its output to the next stage.
 
 <p align="center">
-  <img src="docs/images/architecture-flow.jpg" alt="Architecture Flowchart" width="450"/>
+  <img src="docs/images/architecture-flow.jpg" alt="Architecture Flowchart" height="550"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ The application follows a modular agent architecture where each stage performs a
 Every request follows an explainable execution pipeline.
 
 <p align="center">
-  <img src="docs/images/workflow-flow.jpg" alt="Workflow Flowchart" width="450"/>
+  <img src="docs/images/workflow-flow.jpg" alt="Workflow Flowchart" height="550"/>
 </p>
 
 | Stage | Purpose |
