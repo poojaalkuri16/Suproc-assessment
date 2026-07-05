@@ -1,0 +1,445 @@
+[
+  {
+    "opportunity_id": "OPP001",
+    "title": "Procurement of steel batch 1",
+    "material": "packaging",
+    "required_quantity": 7848,
+    "preferred_location": "Mumbai",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-12-23",
+    "budget_per_unit": 87.19,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP037",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP002",
+    "title": "Procurement of aluminium batch 2",
+    "material": "industrial polymers",
+    "required_quantity": 18881,
+    "preferred_location": "Bengaluru",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2027-01-18",
+    "budget_per_unit": 184.19,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP002",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP003",
+    "title": "Procurement of steel batch 3",
+    "material": "electronics",
+    "required_quantity": 10624,
+    "preferred_location": "Pune",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-08-04",
+    "budget_per_unit": 48.1,
+    "priority": "High",
+    "status": "Closed",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP037",
+    "notes": "Flagged as a priority requirement by the requesting team. Sourcing cycle for this requirement has concluded."
+  },
+  {
+    "opportunity_id": "OPP004",
+    "title": "Procurement of industrial polymers batch 4",
+    "material": "plastic",
+    "required_quantity": 5148,
+    "preferred_location": "Bengaluru",
+    "required_certifications": [
+      "ISO 9001"
+    ],
+    "target_delivery": "2027-02-10",
+    "budget_per_unit": 121.4,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP027",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP005",
+    "title": "Procurement of packaging batch 5",
+    "material": "biodegradable packaging",
+    "required_quantity": 5657,
+    "preferred_location": "Pune",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2027-02-03",
+    "budget_per_unit": 0.5,
+    "priority": "Low",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP039",
+    "notes": "Procurement can be scheduled during regular sourcing cycle. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP006",
+    "title": "Procurement of plastic batch 6",
+    "material": "food-grade plastic",
+    "required_quantity": 5598,
+    "preferred_location": "Delhi",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2026-08-15",
+    "budget_per_unit": 151.53,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP029",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP007",
+    "title": "Procurement of industrial polymers batch 7",
+    "material": "packaging",
+    "required_quantity": 14984,
+    "preferred_location": "Ahmedabad",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2025-01-01",
+    "budget_per_unit": 168.54,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP023",
+    "notes": "Expedited sourcing requested by business unit. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP008",
+    "title": "Procurement of industrial polymers batch 8",
+    "material": "plastic",
+    "required_quantity": 9781,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2027-01-20",
+    "budget_per_unit": 74.77,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP026",
+    "notes": "Flagged as a priority requirement by the requesting team. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP009",
+    "title": "Procurement of food-grade plastic batch 9",
+    "material": "food-grade plastic",
+    "required_quantity": 7198,
+    "preferred_location": "Chennai",
+    "required_certifications": null,
+    "target_delivery": "2027-02-15",
+    "budget_per_unit": 38.82,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP019",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP010",
+    "title": "Procurement of biodegradable packaging batch 10",
+    "material": "plastic",
+    "required_quantity": 753,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 22000",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-11-21",
+    "budget_per_unit": 46.9,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP035",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP011",
+    "title": "Procurement of biodegradable packaging batch 10",
+    "material": "plastic",
+    "required_quantity": 753,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 22000",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-11-21",
+    "budget_per_unit": 46.9,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP035",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP012",
+    "title": "Procurement of biodegradable packaging batch 12",
+    "material": "industrial polymers",
+    "required_quantity": 19289,
+    "preferred_location": "Ahmedabad",
+    "required_certifications": [
+      "ISO 22000",
+      "FSSAI"
+    ],
+    "target_delivery": "2027-01-13",
+    "budget_per_unit": 97.72,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP026",
+    "notes": "Expedited sourcing requested by business unit. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP013",
+    "title": "Procurement of food-grade plastic batch 13",
+    "material": "biodegradable packaging",
+    "required_quantity": 6131,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 22000",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-11-03",
+    "budget_per_unit": 28.51,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP016",
+    "notes": "Expedited sourcing requested by business unit. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP014",
+    "title": "Procurement of industrial polymers batch 14",
+    "material": "industrial polymers",
+    "required_quantity": 17669,
+    "preferred_location": "Mumbai",
+    "required_certifications": [
+      "ISO 9001",
+      "RoHS"
+    ],
+    "target_delivery": "2026-10-21",
+    "budget_per_unit": 166.62,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP022",
+    "notes": "Flagged as a priority requirement by the requesting team. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP015",
+    "title": "Procurement of steel batch 15",
+    "material": "plastic",
+    "required_quantity": null,
+    "preferred_location": "Mumbai",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2026-12-11",
+    "budget_per_unit": 50.72,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP023",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP016",
+    "title": "Procurement of steel batch 16",
+    "material": "aluminium",
+    "required_quantity": 3868,
+    "preferred_location": "Delhi",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-09-22",
+    "budget_per_unit": 46.43,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP049",
+    "notes": "Flagged as a priority requirement by the requesting team. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP017",
+    "title": "Procurement of plastic batch 17",
+    "material": "steel",
+    "required_quantity": 16691,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2027-02-13",
+    "budget_per_unit": 131.69,
+    "priority": "Low",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP037",
+    "notes": "Procurement can be scheduled during regular sourcing cycle. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP018",
+    "title": "Procurement of biodegradable packaging batch 18",
+    "material": "biodegradable packaging",
+    "required_quantity": 5446,
+    "preferred_location": "Coimbatore",
+    "required_certifications": [
+      "ISO 9001"
+    ],
+    "target_delivery": "2026-12-01",
+    "budget_per_unit": 102.86,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP018",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP019",
+    "title": "Procurement of food-grade plastic batch 19",
+    "material": "biodegradable packaging",
+    "required_quantity": 17124,
+    "preferred_location": "Mumbai",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-11-29",
+    "budget_per_unit": 104.9,
+    "priority": "High",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP024",
+    "notes": "Expedited sourcing requested by business unit. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP020",
+    "title": "Procurement of electronics batch 20",
+    "material": "plastic",
+    "required_quantity": 3458,
+    "preferred_location": "Ahmedabad",
+    "required_certifications": [
+      "ISO 9001",
+      "RoHS"
+    ],
+    "target_delivery": "2026-12-29",
+    "budget_per_unit": 126.41,
+    "priority": "Low",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP003",
+    "notes": "Procurement can be scheduled during regular sourcing cycle. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP021",
+    "title": "Procurement of packaging batch 21",
+    "material": "aluminium",
+    "required_quantity": 11035,
+    "preferred_location": "Atlantis",
+    "required_certifications": [
+      "ISO 9001",
+      "BIS"
+    ],
+    "target_delivery": "2026-09-10",
+    "budget_per_unit": 211.12,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP007",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP022",
+    "title": "Procurement of biodegradable packaging batch 22",
+    "material": "plastic",
+    "required_quantity": 17033,
+    "preferred_location": "Delhi",
+    "required_certifications": [
+      "ISO 9001"
+    ],
+    "target_delivery": "2026-10-05",
+    "budget_per_unit": 158.6,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP034",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP023",
+    "title": "Procurement of steel batch 23",
+    "material": "biodegradable packaging",
+    "required_quantity": 12717,
+    "preferred_location": "Chennai",
+    "required_certifications": [
+      "ISO 9001",
+      "RoHS"
+    ],
+    "target_delivery": "2026-11-15",
+    "budget_per_unit": 172.64,
+    "priority": "Low",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP039",
+    "notes": "Procurement can be scheduled during regular sourcing cycle. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP024",
+    "title": "Procurement of food-grade plastic batch 24",
+    "material": "biodegradable packaging",
+    "required_quantity": 2659,
+    "preferred_location": "Pune",
+    "required_certifications": [
+      "ISO 9001"
+    ],
+    "target_delivery": "2026-12-23",
+    "budget_per_unit": 152.46,
+    "priority": "Medium",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP017",
+    "notes": "Standard sourcing timeline applies. Supplier evaluation currently in progress."
+  },
+  {
+    "opportunity_id": "OPP025",
+    "title": "Procurement of steel batch 25",
+    "material": "biodegradable packaging",
+    "required_quantity": 3170,
+    "preferred_location": "Delhi",
+    "required_certifications": [
+      "ISO 9001",
+      "FSSAI"
+    ],
+    "target_delivery": "2026-10-21",
+    "budget_per_unit": 213.22,
+    "priority": "Low",
+    "status": "Open",
+    "created_by": "Procurement Office",
+    "recommended_supplier": "SUP043",
+    "notes": "Procurement can be scheduled during regular sourcing cycle. Supplier evaluation currently in progress."
+  }
+]
