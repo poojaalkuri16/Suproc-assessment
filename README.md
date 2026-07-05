@@ -79,7 +79,7 @@ Suproc/
 
 The application follows a modular agent architecture where each stage performs a single responsibility before passing its output to the next stage.
 
-![Architecture](docs/images/architecture-flow.png)
+![Architecture](docs/images/architecture-flow.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ The application follows a modular agent architecture where each stage performs a
 
 Every request follows an explainable execution pipeline.
 
-![Workflow](docs/images/workflow-flow.png)
+![Workflow](docs/images/workflow-flow.jpg)
 
 | Stage | Purpose |
 |--------|---------|
